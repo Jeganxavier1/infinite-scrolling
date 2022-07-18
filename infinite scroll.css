@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: lightcyan;
+}
+.title{
+    text-align: center;
+    margin: 50px;
+    /* width:200px; */
+    height: fit-content;
+    color: green;
+    border: 2px dashed black;
+}
+#content{
+    padding: 30px;
+}
